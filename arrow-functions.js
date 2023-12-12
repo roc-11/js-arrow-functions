@@ -5,6 +5,13 @@
 
 // Vanilla JavaScript Function
 
+function addTwoNumbers(a, b) {
+    return a + b;
+}
+
+let sum = addTwoNumbers(3, 5);
+console.log(sum);
+
 // Arrow Function With Parameters
 
 // Single Line Arrow Function With Parameters
